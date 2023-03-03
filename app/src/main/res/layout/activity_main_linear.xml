@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ПРИМИ ТАБЛЕТКИ"
+        android:text="@string/order"
         android:background="@color/purple_200"
         android:textSize="30sp"
         android:gravity="center"
@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="КУПИТЬ"
+        android:text="@string/buy"
         android:textSize="30sp"
         android:onClick="onClick"
         />
