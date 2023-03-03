@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">p2</string>
+    <string name="app_name">Первая помощь</string>
+    <string name="buy">КУПИТЬ</string>
+    <string name="order">ПРИМИ ТАБЛЕТКИ</string>
+    <string name="order2">Введите личные данные:</string>
 </resources>
